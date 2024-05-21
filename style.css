@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+h2{font-family: "Poetsen One", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+}
+h1 {
+    font-size: 2pc;
+    color: crimson;
+}
+h3 {
+    font-size: 1pc;
+    color: gray;
+}
+
+.image_profile{
+    width:250px;
+    height:250px;
+}
+a {
+    font-size: 1pc;
+}
